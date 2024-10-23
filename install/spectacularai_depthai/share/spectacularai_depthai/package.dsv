@@ -1,0 +1,6 @@
+source;share/spectacularai_depthai/hook/pythonpath.ps1
+source;share/spectacularai_depthai/hook/pythonpath.dsv
+source;share/spectacularai_depthai/hook/pythonpath.sh
+source;share/spectacularai_depthai/hook/ament_prefix_path.ps1
+source;share/spectacularai_depthai/hook/ament_prefix_path.dsv
+source;share/spectacularai_depthai/hook/ament_prefix_path.sh

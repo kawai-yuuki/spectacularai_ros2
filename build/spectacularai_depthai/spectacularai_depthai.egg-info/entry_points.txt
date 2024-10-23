@@ -1,0 +1,4 @@
+[console_scripts]
+color_mapping_node = spectacularai_depthai.color_mapping_node:main
+ros2_node = spectacularai_depthai.ros2_node:main
+

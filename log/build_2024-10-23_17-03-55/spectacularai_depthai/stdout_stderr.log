@@ -1,0 +1,20 @@
+running egg_info
+writing build/spectacularai_depthai/spectacularai_depthai.egg-info/PKG-INFO
+writing dependency_links to build/spectacularai_depthai/spectacularai_depthai.egg-info/dependency_links.txt
+writing entry points to build/spectacularai_depthai/spectacularai_depthai.egg-info/entry_points.txt
+writing requirements to build/spectacularai_depthai/spectacularai_depthai.egg-info/requires.txt
+writing top-level names to build/spectacularai_depthai/spectacularai_depthai.egg-info/top_level.txt
+reading manifest file 'build/spectacularai_depthai/spectacularai_depthai.egg-info/SOURCES.txt'
+writing manifest file 'build/spectacularai_depthai/spectacularai_depthai.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/yuukikawai-kamlab/spectacularai_ros2/install/spectacularai_depthai/lib/python3.10/site-packages/spectacularai_depthai-0.0.1-py3.10.egg-info' (and everything under it)
+Copying build/spectacularai_depthai/spectacularai_depthai.egg-info to /home/yuukikawai-kamlab/spectacularai_ros2/install/spectacularai_depthai/lib/python3.10/site-packages/spectacularai_depthai-0.0.1-py3.10.egg-info
+running install_scripts
+Installing color_mapping_node script to /home/yuukikawai-kamlab/spectacularai_ros2/install/spectacularai_depthai/lib/spectacularai_depthai
+Installing ros2_node script to /home/yuukikawai-kamlab/spectacularai_ros2/install/spectacularai_depthai/lib/spectacularai_depthai
+writing list of installed files to '/home/yuukikawai-kamlab/spectacularai_ros2/build/spectacularai_depthai/install.log'

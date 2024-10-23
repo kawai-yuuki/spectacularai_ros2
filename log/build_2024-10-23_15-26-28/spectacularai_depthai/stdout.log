@@ -1,0 +1,35 @@
+running egg_info
+creating build/spectacularai_depthai/spectacularai_depthai.egg-info
+writing build/spectacularai_depthai/spectacularai_depthai.egg-info/PKG-INFO
+writing dependency_links to build/spectacularai_depthai/spectacularai_depthai.egg-info/dependency_links.txt
+writing entry points to build/spectacularai_depthai/spectacularai_depthai.egg-info/entry_points.txt
+writing requirements to build/spectacularai_depthai/spectacularai_depthai.egg-info/requires.txt
+writing top-level names to build/spectacularai_depthai/spectacularai_depthai.egg-info/top_level.txt
+writing manifest file 'build/spectacularai_depthai/spectacularai_depthai.egg-info/SOURCES.txt'
+reading manifest file 'build/spectacularai_depthai/spectacularai_depthai.egg-info/SOURCES.txt'
+writing manifest file 'build/spectacularai_depthai/spectacularai_depthai.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/yuukikawai-kamlab/sdk-examples/python/oak/ros2/build/spectacularai_depthai/build
+creating /home/yuukikawai-kamlab/sdk-examples/python/oak/ros2/build/spectacularai_depthai/build/lib
+creating /home/yuukikawai-kamlab/sdk-examples/python/oak/ros2/build/spectacularai_depthai/build/lib/spectacularai_depthai
+copying spectacularai_depthai/__init__.py -> /home/yuukikawai-kamlab/sdk-examples/python/oak/ros2/build/spectacularai_depthai/build/lib/spectacularai_depthai
+copying spectacularai_depthai/ros2_node.py -> /home/yuukikawai-kamlab/sdk-examples/python/oak/ros2/build/spectacularai_depthai/build/lib/spectacularai_depthai
+running install
+running install_lib
+creating /home/yuukikawai-kamlab/sdk-examples/python/oak/ros2/install/spectacularai_depthai/lib/python3.10/site-packages/spectacularai_depthai
+copying /home/yuukikawai-kamlab/sdk-examples/python/oak/ros2/build/spectacularai_depthai/build/lib/spectacularai_depthai/__init__.py -> /home/yuukikawai-kamlab/sdk-examples/python/oak/ros2/install/spectacularai_depthai/lib/python3.10/site-packages/spectacularai_depthai
+copying /home/yuukikawai-kamlab/sdk-examples/python/oak/ros2/build/spectacularai_depthai/build/lib/spectacularai_depthai/ros2_node.py -> /home/yuukikawai-kamlab/sdk-examples/python/oak/ros2/install/spectacularai_depthai/lib/python3.10/site-packages/spectacularai_depthai
+byte-compiling /home/yuukikawai-kamlab/sdk-examples/python/oak/ros2/install/spectacularai_depthai/lib/python3.10/site-packages/spectacularai_depthai/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/yuukikawai-kamlab/sdk-examples/python/oak/ros2/install/spectacularai_depthai/lib/python3.10/site-packages/spectacularai_depthai/ros2_node.py to ros2_node.cpython-310.pyc
+running install_data
+creating /home/yuukikawai-kamlab/sdk-examples/python/oak/ros2/install/spectacularai_depthai/share/ament_index
+creating /home/yuukikawai-kamlab/sdk-examples/python/oak/ros2/install/spectacularai_depthai/share/ament_index/resource_index
+creating /home/yuukikawai-kamlab/sdk-examples/python/oak/ros2/install/spectacularai_depthai/share/ament_index/resource_index/packages
+copying resource/spectacularai_depthai -> /home/yuukikawai-kamlab/sdk-examples/python/oak/ros2/install/spectacularai_depthai/share/ament_index/resource_index/packages
+copying package.xml -> /home/yuukikawai-kamlab/sdk-examples/python/oak/ros2/install/spectacularai_depthai/share/spectacularai_depthai
+running install_egg_info
+Copying build/spectacularai_depthai/spectacularai_depthai.egg-info to /home/yuukikawai-kamlab/sdk-examples/python/oak/ros2/install/spectacularai_depthai/lib/python3.10/site-packages/spectacularai_depthai-0.0.1-py3.10.egg-info
+running install_scripts
+Installing ros2_node script to /home/yuukikawai-kamlab/sdk-examples/python/oak/ros2/install/spectacularai_depthai/lib/spectacularai_depthai
+writing list of installed files to '/home/yuukikawai-kamlab/sdk-examples/python/oak/ros2/build/spectacularai_depthai/install.log'
